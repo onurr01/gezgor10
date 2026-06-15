@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590040721290",
+    "project_id": "gezgor10-14b48",
+    "storage_bucket": "gezgor10-14b48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590040721290:android:67ff07f3cef9d41bccca73",
+        "android_client_info": {
+          "package_name": "com.example.gezgor10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5F0FcURd1aK06xy9Kejl0GXwndgapgR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
